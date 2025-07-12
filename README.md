@@ -13,7 +13,8 @@
 WPF-приложение для учета офисного оборудования с использованием:
 
 -.NET 6
--WPF + MVVM
+-WPF 
+- MVVM
 -Entity Framework Core
 -SQLite
 
